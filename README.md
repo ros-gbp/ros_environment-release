@@ -1,3 +1,26 @@
+## ros_environment (noetic) - 1.3.1-1
+
+The packages in the `ros_environment` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ros_environment` on `Mon, 02 Mar 2020 21:40:00 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros-gbp/ros_environment-release.git
+- rosdistro version: `1.3.0-1`
+- old version: `1.3.0-1`
+- new version: `1.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (noetic) - 1.3.0-1
 
 The packages in the `ros_environment` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ros_environment` on `Thu, 23 Jan 2020 23:28:18 -0000`
