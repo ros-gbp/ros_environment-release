@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.0.2)
 project(ros_environment)
 find_package(catkin REQUIRED)
 
@@ -10,14 +10,14 @@ set(ROS_VERSION "1")
 if(DEFINED ENV{ROS_PYTHON_VERSION})
   set(ROS_PYTHON_VERSION "$ENV{ROS_PYTHON_VERSION}")
 else()
-  set(ROS_PYTHON_VERSION "2")
+  set(ROS_PYTHON_VERSION "3")
 endif()
 
 # allow overriding the distro name
 if(DEFINED ENV{ROS_DISTRO_OVERRIDE})
   set(ROS_DISTRO $ENV{ROS_DISTRO_OVERRIDE})
 else()
-  set(ROS_DISTRO "melodic")
+  set(ROS_DISTRO "noetic")
 endif()
 
 set(
