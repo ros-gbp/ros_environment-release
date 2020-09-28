@@ -1,3 +1,26 @@
+## ros_environment (melodic) - 1.2.3-1
+
+The packages in the `ros_environment` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic ros_environment` on `Mon, 28 Sep 2020 20:50:25 -0000`
+
+The `ros_environment` package was released.
+
+Version of package(s) in repository `ros_environment`:
+
+- upstream repository: https://github.com/ros/ros_environment.git
+- release repository: https://github.com/ros-gbp/ros_environment-release.git
+- rosdistro version: `1.2.2-1`
+- old version: `1.2.2-1`
+- new version: `1.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## ros_environment (noetic) - 1.3.1-1
 
 The packages in the `ros_environment` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ros_environment` on `Mon, 02 Mar 2020 21:40:00 -0000`
